@@ -128,19 +128,6 @@ All sources were merged into a single df_merged dataframe for complete analysis.
 
 * Environment: Google Colab / Jupyter Notebook
 
-🚀 How to Run
-
-* Clone this repository:
-* 
-  git clone https://github.com/<your-username>/Data-Assessment-2.git
-  cd Data-Assessment-2
-  
-* Open the notebook:
-
-  jupyter notebook Data_Assessment_2_Code.ipynb
-
-* Run all cells sequentially to reproduce the analysis.
-
 📄 Report Reference
 
 Detailed findings and visuals:
