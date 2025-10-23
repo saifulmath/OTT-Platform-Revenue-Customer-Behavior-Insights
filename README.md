@@ -1,9 +1,9 @@
-# OTT-Platform-Revenue-Analysis
+# OTT Platform Revenue & Customer Behavior Insights
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
 🔍 Project Overview
 
-This project analyzes OTT platform revenue and customer behavior using multi-source transactional and customer datasets.
+This project uses multi-source transactional and customer datasets to analyze OTT platform revenue and customer behavior.
 The analysis focuses on revenue trends, customer segmentation, cohort-based performance, and key revenue drivers such as payment methods, plan types, and geography.
 
 The ultimate goal is to identify opportunities to improve customer retention, increase repeat purchase rates, and optimize revenue growth.
